@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.sheepplayer
 
 import org.junit.Test
 
